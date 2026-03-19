@@ -49,8 +49,6 @@ AI & Tooling:
 
 🌐 Portfolio: monstudio.me
 
-💼 LinkedIn: Kết nối với tôi (Thêm link của ông vào đây)
-
 ✉️ Email: m.hung2310@gmail.com
 
 <p align="center">
