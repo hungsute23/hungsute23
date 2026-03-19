@@ -27,36 +27,23 @@ Implemented offline-first local databases (Isar/Drift) synced with Appwrite Clou
 💻 My Weapons of Choice
 
 Frontend & Mobile:
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flutter-%252302569B.svg%3Fstyle%3Dfor-the-badge%26logo%3DFlutter%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Dart-%25230175C2.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" />
-</p>
+📱 Flutter | 🎯 Dart | ⚛️ Next.js | 🎨 Tailwind CSS
 
 Backend, Infra & DevOps:
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Appwrite-FD366E%3Fstyle%3Dfor-the-badge%26logo%3Dappwrite%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/docker-%25230db7ed.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Coolify-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
-</p>
+🗄️ Appwrite | 🐳 Docker | 🐘 PostgreSQL | ☁️ Coolify
 
 AI & Tooling:
+🧠 Google Cloud (Vertex AI) | 🖌️ Figma | 💳 RevenueCat
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/RevenueCat-FF6B6B%3Fstyle%3Dfor-the-badge%26logo%3Drevenuecat%26logoColor%3Dwhite" />
-</p>
+📈 GitHub Focus
 
-📈 GitHub Stats
+⚡ Building in public, executing fast, and shipping real value.
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dlunlune1910%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0f172a" alt="Hung's GitHub Stats" />
-</p>
+🏗️ Architecture: Offline-first apps, Serverless backend.
+
+🤖 AI Integration: LLMs, Google Cloud TTS, RAG workflows.
+
+💸 Monetization: Freemium funnels, In-App Purchases.
 
 📫 Let's Connect
 
