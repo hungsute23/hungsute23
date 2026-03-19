@@ -1,4 +1,4 @@
-Hi there, I'm Hung Vi (Mon) 👋
+Hi there, I'm Hung Manh (Mon) 👋
 
 <h3 align="center">Product Engineer | Indie Hacker | Solo Founder @ MonStudio</h3>
 
